@@ -1,0 +1,4 @@
+alitan;a@hotmail.com;111;::1;08/04/2020;2
+Deren123;deren@hotmail.com;111;::1;08/04/2020;32
+Hakan;h@hotmail.com;111;::1;08/04/2020;32
+deniz;d@hotmail.com;111;::1;08/04/2020;0
